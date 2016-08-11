@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nutritional Pyramid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="description_text">
+        Please, enter your weight and the percentage for the macronutrients recommended for you, then
+        hit \'Calculate\' to see the daily amount of each one
+    </string>
+    <string name="weight">Weight</string>
+    <string name="weight_unit">Kg</string>
+    <string name="carbs_percent">Carbs</string>
+    <string name="percent">%</string>
+    <string name="fat_percent">Fat</string>
+    <string name="protein_percent">Protein</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="result">Results</string>
+</resources>
