@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                     proteinPercent = Float.valueOf(proteinPercentString);
                     fatPercent = Float.valueOf(fatPercentString);
 
-                    Toast.makeText(getApplicationContext(), "Calculating...", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Calculating..", Toast.LENGTH_SHORT).show();
 
                     Intent intent = new Intent(getApplicationContext(), ResultsActivity.class);
                     intent.putExtra(EXTRA_WEIGHT, weight);
